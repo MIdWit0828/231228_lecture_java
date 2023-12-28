@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a5f81f4-2be2-4d92-8b2a-59f17814e2bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/teamName/secton01/literal/Application01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/teamName/secton01/literal/Application02.java" afterDir="false" />
+    <list default="true" id="8a5f81f4-2be2-4d92-8b2a-59f17814e2bc" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/com/teamName/section02/variable/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/teamName/section02/variable/Application02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/teamName/section02/variable/Application03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/teamName/section03/construct/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/teamName/section03/construct/Appllication02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/teamName/secton01/literal/Application01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/teamName/section01/literal/Application01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/teamName/secton01/literal/Application02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/teamName/section01/literal/Application02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/teamName/secton01/literal/Application03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/teamName/section01/literal/Application03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
   "keyToString": {
     "Application.Application01.executor": "Run",
     "Application.Application02.executor": "Run",
+    "Application.Application03.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -72,6 +73,35 @@
       <option name="presentableId" value="Default" />
       <updated>1703725317625</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703729875874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703729875874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703729910946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703729910946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703732395147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703732395147</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.teamName.secton01.literal;
+package com.teamName.section01.literal;
 //패키지 3개이상의 폴더로 관리하는 편이 좋다.
 //
 public class Application01
