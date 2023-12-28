@@ -15,5 +15,4 @@ public class Appllication02
         final int MAX_AGE = 60;
         final int MIX_AGE = 20;
 
-
     }}

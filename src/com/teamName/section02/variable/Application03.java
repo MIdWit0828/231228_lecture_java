@@ -19,7 +19,7 @@ public class Application03
         System.out.println("6번 고객에게 포인트를 " + point + "포인트 지급하였습니다.");
 
         //시간에 따라 변하는 값을 저장하고 사용할 수 있다.
-        int sum = 0:
+        int sum = 0;
         sum = sum+10;
         System.out.println("sum에 10을 더하면 현재 sum의 값은? " + sum);
         sum += 10;

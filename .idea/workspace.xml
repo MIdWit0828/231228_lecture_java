@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a5f81f4-2be2-4d92-8b2a-59f17814e2bc" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/com/teamName/section02/variable/Application01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/teamName/section02/variable/Application02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/teamName/section02/variable/Application03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/teamName/section03/construct/Application01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/teamName/section03/construct/Appllication02.java" afterDir="false" />
+    <list default="true" id="8a5f81f4-2be2-4d92-8b2a-59f17814e2bc" name="Changes" comment="3rd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/teamName/secton01/literal/Application01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/teamName/section01/literal/Application01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/teamName/secton01/literal/Application02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/teamName/section01/literal/Application02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/teamName/secton01/literal/Application03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/teamName/section01/literal/Application03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +20,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2a9KNYSWZ6qXOQnJwXLh3eXu86h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,6 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/lecture/01_java/workspace/_01",
     "onboarding.tips.debug.path": "C:/lecture/01_java/workspace/_01/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -97,11 +97,46 @@
       <option name="project" value="LOCAL" />
       <updated>1703732395147</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2nd">
+      <option name="closed" value="true" />
+      <created>1703743824956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703743824956</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2nd">
+      <option name="closed" value="true" />
+      <created>1703743854068</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703743854068</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/com/teamName/section01/literal/Application03.java&#10;#&#9;src/com/teamName/secton01/literal/Application02.java">
+      <option name="closed" value="true" />
+      <created>1703743980077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703743980077</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3rd">
+      <option name="closed" value="true" />
+      <created>1703749648268</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703749648268</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="2nd" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/com/teamName/section01/literal/Application03.java&#10;#&#9;src/com/teamName/secton01/literal/Application02.java" />
+    <MESSAGE value="3rd" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd" />
   </component>
 </project>
